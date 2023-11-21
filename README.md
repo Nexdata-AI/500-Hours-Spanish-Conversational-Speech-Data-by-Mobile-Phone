@@ -35,4 +35,4 @@ speech recognition; voiceprint recognition;
 the word accuracy rate is not less than 98%.
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
